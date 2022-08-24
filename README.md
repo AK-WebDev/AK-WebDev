@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kévin</h1>
+<h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on [a Social Network](https://github.com/AK-WebDev/DW_P7_Groupomania)
