@@ -7,7 +7,7 @@
 
 - 📫 You can reach me here -> **adda-kevin@hotmail.fr**
 
-- ⚡ Fun fact **I love playing poker**
+- ⚡ Fun fact **I love discovering and playing mind games like Poker, Go etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
