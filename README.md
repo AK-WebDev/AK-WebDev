@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next Js, Redux..**
 
-- 📫 How to reach me **adda-kevin@hotmail.fr**
+- 📫 You can reach me here -> **adda-kevin@hotmail.fr**
 
 - ⚡ Fun fact **I love playing poker**
 
