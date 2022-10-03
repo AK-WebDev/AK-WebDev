@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working on [a Social Network](https://github.com/AK-WebDev/DW_P7_Groupomania)
+- 🔭 I’m currently working on [Weather App](https://github.com/AK-WebDev/DW_P7_Groupomania)
 
 - 🌱 I’m currently learning **Typescript, Next Js, Redux..**
 
