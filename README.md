@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather App](https://github.com/ak-code-90)
 
-- 🌱 I’m currently learning **Typescript, Next Js, Redux..**
+- 🌱 I’m currently deepen **React Js and React Native**
 
 - 📫 You can reach me here -> **adda-kevin@hotmail.fr**
 
