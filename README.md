@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chat App] with socket.io
 
-- 🌱 I’m currently deepen **React Js and React Native**
+- 🌱 I'm going deeper into React and React Native to join a company that has a positive impact on the planet**
 
 - 📫 You can reach me here -> **adda-kevin@hotmail.fr**
 
