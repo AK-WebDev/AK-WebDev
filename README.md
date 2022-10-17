@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working on [Chat App]()
+- 🔭 I’m currently working on [Chat App] with socket.io
 
 - 🌱 I’m currently deepen **React Js and React Native**
 
