@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on project that use Redux
 
-- 🌱 I'm going deeper into React and React Native to join a company that has a positive impact on the planet**
+- 🌱 I'm going deeper into React and React Native to join a company that has a positive impact on the planet
 
 - 📫 You can reach me here -> **adda-kevin@hotmail.fr**
 
