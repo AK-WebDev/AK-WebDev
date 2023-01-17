@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+<h3 align="center">A passionate front-end developer from France</h3>
 
 - 🔭 I’m currently working on project that use Redux
 
