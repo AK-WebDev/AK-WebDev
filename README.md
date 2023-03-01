@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate front-end developer from France</h3>
 
-- 🔭 I’m currently working on project that use Redux
+- 🔭 I’m currently working on a personal project that use the spotify API
 
 - 🌱 I'm going deeper into React and React Native to join a company that has a positive impact on the planet
 
