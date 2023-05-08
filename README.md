@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate front-end developer from France</h3>
+<h3 align="center">A passionate front-end developer</h3>
 
 - 🔭 I’m currently working on a personal project that use the spotify API
 
